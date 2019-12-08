@@ -1,0 +1,9 @@
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Machine lerning\Machine lerningML.Model\bin\Release\netstandard2.0\MLModel.zip
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Machine lerning\Machine lerningML.Model\bin\Release\netstandard2.0\Machine lerningML.Model.deps.json
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Machine lerning\Machine lerningML.Model\bin\Release\netstandard2.0\Machine lerningML.Model.dll
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Machine lerning\Machine lerningML.Model\bin\Release\netstandard2.0\Machine lerningML.Model.pdb
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Machine lerning\Machine lerningML.Model\obj\Release\netstandard2.0\Machine lerningML.Model.csprojAssemblyReference.cache
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Machine lerning\Machine lerningML.Model\obj\Release\netstandard2.0\Machine lerningML.Model.AssemblyInfoInputs.cache
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Machine lerning\Machine lerningML.Model\obj\Release\netstandard2.0\Machine lerningML.Model.AssemblyInfo.cs
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Machine lerning\Machine lerningML.Model\obj\Release\netstandard2.0\Machine lerningML.Model.dll
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Machine lerning\Machine lerningML.Model\obj\Release\netstandard2.0\Machine lerningML.Model.pdb
